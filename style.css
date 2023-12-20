@@ -1,0 +1,14 @@
+
+.bg-image {
+    background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/b85863b0-0609-4dba-8fe8-d0370b25b9ee/4e53ded1-9b47-456f-84a8-ed09fa0dcc88/TR-tr-20230731-popsignuptwoweeks-perspective_alpha_website_small.jpg);
+    width: 700px;
+    height: 700px;
+    
+    
+}
+
+.l {
+    element.style {
+        background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%);
+    }
+}
